@@ -155,4 +155,4 @@ The long-term vision is to provide a flexible SaaS platform that supports multip
 
 # 📄 License
 
-Private project — currently under active development.
+Private projects — currently under active development.
